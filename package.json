@@ -1,0 +1,26 @@
+{
+  "name": "apktool-jar",
+  "version": "2.4.1",
+  "description": "Apktool binary for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayyybe/node-apktool-jar.git"
+  },
+  "keywords": [
+    "apktool",
+    "apk",
+    "android",
+    "aapt",
+    "aapt2"
+  ],
+  "author": "Ibrahim Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayyybe/node-apktool-jar/issues"
+  },
+  "homepage": "https://github.com/ayyybe/node-apktool-jar#readme"
+}

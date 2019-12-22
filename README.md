@@ -1,5 +1,5 @@
 # apktool-jar
-![npm](https://img.shields.io/npm/v/apktool-jar)
+[![npm](https://img.shields.io/npm/v/apktool-jar)](https://www.npmjs.com/package/apktool-jar)
 
 ## Usage
 ```js

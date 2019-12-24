@@ -9,5 +9,5 @@ console.log(apktool.version)
 // '2.4.1'
 
 console.log(apktool.path)
-// '/my/project/node_modules/node-apktool-jar/bin/apktool_2.4.1.jar'
+// '/my/project/node_modules/apktool-jar/bin/apktool_2.4.1.jar'
 ```
